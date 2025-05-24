@@ -1,3 +1,5 @@
+![Cover](cover.png)
+
 # 💫 About Me:
 🎓 2nd-year mobile development engineering student at ESPRIT.<br>💻 Passionate about building Android/iOS apps.<br>🚀 Sharing personal and academic projects with code and descriptions.
 
