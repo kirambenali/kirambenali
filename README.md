@@ -1,7 +1,12 @@
 ![Cover](couverture.png)
 
 # 💫 About Me:
-🎓 2nd-year mobile development engineering student at ESPRIT.<br>💻 Passionate about building Android/iOS apps.<br>🚀 Sharing personal and academic projects with code and descriptions.
+🎓 3rd-year Software Engineer student at ESPRIT – final year
+💻 Mobile Development – Android & iOS apps
+🎨 UX/UI Design – creating intuitive and user-friendly interfaces
+🤖 AI Agents & Automation – developing AI-powered agents integrated in mobile apps and automating workflows using n8n
+🚀 Projects & code shared on GitHub
+🔍 Open to internships, freelance projects, and collaboration opportunities in Mobile Development, UX/UI, AI, and Automation
 
 
 ## 🌐 Socials:
